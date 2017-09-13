@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nedarvning", "Nedarvning\Ne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorfi", "Polymorfi\Polymorfi.csproj", "{6411AD49-91EA-4FC7-977D-48651DE0BA96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simpel Fejlhåndtering", "Simpel Fejlhåndtering\Simpel Fejlhåndtering.csproj", "{67034EBA-A7A4-4D98-A85F-E64A65ADDBC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{6411AD49-91EA-4FC7-977D-48651DE0BA96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6411AD49-91EA-4FC7-977D-48651DE0BA96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6411AD49-91EA-4FC7-977D-48651DE0BA96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67034EBA-A7A4-4D98-A85F-E64A65ADDBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67034EBA-A7A4-4D98-A85F-E64A65ADDBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67034EBA-A7A4-4D98-A85F-E64A65ADDBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67034EBA-A7A4-4D98-A85F-E64A65ADDBC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
